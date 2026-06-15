@@ -63,31 +63,7 @@
 
 </div>
 
----
-*/
-## 🚀 Featured Projects
 
-### 🌐 [Project Name](https://github.com/yourusername/project)
-> A full-stack web application built with Spring Boot + MySQL backend and a vanilla JS/HTML/CSS frontend. Features user authentication, RESTful APIs, and a responsive UI.
-
-`Java` `Spring Boot` `MySQL` `HTML` `CSS` `JavaScript`
-
----
-
-### 🤖 [Automation Suite](https://github.com/yourusername/project)
-> Java + Selenium test automation framework for end-to-end web testing. Covers login flows, form submissions, and data validation with detailed test reports.
-
-`Java` `Selenium` `Automation` `Testing`
-
----
-
-### 📦 [API Service](https://github.com/yourusername/project)
-> RESTful API service with Spring Boot and MongoDB Atlas. Includes CRUD operations, pagination, and JWT-based authentication.
-
-`Spring Boot` `MongoDB Atlas` `REST API` `Java`
-
----
-/*
 ## 📫 Connect With Me
 
 <div align="center">
