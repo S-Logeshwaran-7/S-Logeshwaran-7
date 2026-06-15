@@ -75,9 +75,9 @@
 ---
 
 ### 🤖 [Automation Suite](https://github.com/yourusername/project)
-> Python + Selenium test automation framework for end-to-end web testing. Covers login flows, form submissions, and data validation with detailed test reports.
+> Java + Selenium test automation framework for end-to-end web testing. Covers login flows, form submissions, and data validation with detailed test reports.
 
-`Python` `Selenium` `Automation` `Testing`
+`Java` `Selenium` `Automation` `Testing`
 
 ---
 
