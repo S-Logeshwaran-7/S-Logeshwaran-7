@@ -64,7 +64,7 @@
 </div>
 
 ---
-/*
+*/
 ## 🚀 Featured Projects
 
 ### 🌐 [Project Name](https://github.com/yourusername/project)
@@ -87,7 +87,7 @@
 `Spring Boot` `MongoDB Atlas` `REST API` `Java`
 
 ---
-*/
+/*
 ## 📫 Connect With Me
 
 <div align="center">
